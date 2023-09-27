@@ -1,46 +1,103 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+# Habit Tracker App
+ 
+The React Habit Tracker App is a web application built with React and Redux, offering an intuitive way to track your habits and monitor your progress. With this app, you can effortlessly add new tasks, toggle their status between "Done," "Not Done," and "None" (no action), delete tasks, and navigate between different views using React Router DOM.
 
-In the project directory, you can run:
 
-### `npm start`
+## Table Of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Getting Started
+- Features
+- Usage
+- Contributing
+- License
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started with the React Habit Tracker App, follow these steps:
 
-### `npm test`
+Clone the repository to your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+bash
 
-### `npm run build`
+git clone https://github.com/vaibhav9682/habit-tracker-redux
+```
+Install the project dependencies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+bash
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+cd react-habit-tracker
+npm install
+```
+Start the development server:
+```
+bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
+```
+Open your web browser and visit http://localhost:3000 to access the React Habit Tracker App.
+## Build
+```
+bash
 
-### `npm run eject`
+npm run build
+```
+## Feature
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Add New Tasks: Easily add new habits or tasks to track your daily, weekly, or monthly routines.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Toggle Status: Change the status of each task with three options:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+"Done": Mark a task as completed.
+```
+```
+"Not Done": Indicate that a task is not yet completed.
+```
+```
+"None": Keep a task without taking any action.
+```
+- Delete Tasks: Remove specific tasks that you no longer want to track.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Navigation with React Router DOM: Navigate between different views seamlessly using React Router DOM.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
+
+1. Adding New Tasks:
+
+- Click the "Add New Task" button.
+- Enter the task description.
+- Click the "Add Task" button to save the task.
+
+2. Toggling Task Status:
+
+- To mark a task as "Done," click the "Done" related date.
+- To mark a task as "Not Done," click the "Not Done" related date.
+- To keep a task without taking any action, click the "None" related date.
+
+3. Deleting Tasks:
+
+- To delete a task, click the "Delete" button next to the task you want to remove.
+
+4. Navigation with React Router DOM:
+
+- Use React Router DOM links or navigation components to move between different views within the app.
+
+## 🚀 About Me
+ *My name is Vaibhav Dwivedi.*
+
+*I'm a full stack developer*
+
+
+
+### for any support :
+
+github profile: https://github.com/vaibhav9682
+
+github repo: git clone https://github.com/vaibhav9682/habit-tracker-redux
+
+
