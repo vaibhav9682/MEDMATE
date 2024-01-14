@@ -8,7 +8,7 @@ const Navbar = () => {
 
             <div className={style.leftSection}>
 
-                <Link><h2>Tracker</h2></Link>
+                <Link><h2>Medmate</h2></Link>
 
             </div>
 

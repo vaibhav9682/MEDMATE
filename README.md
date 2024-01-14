@@ -1,9 +1,6 @@
+# MEDMATE
 
-
-# Habit Tracker App
- 
-The React Habit Tracker App is a web application built with React and Redux, offering an intuitive way to track your habits and monitor your progress. With this app, you can effortlessly add new tasks, toggle their status between "Done," "Not Done," and "None" (no action), delete tasks, and navigate between different views using React Router DOM.
-
+The MEDMATE App is a web application built with React and Redux, offering an intuitive way to track your habits and monitor your progress. With this app, you can effortlessly add new tasks, toggle their status between "Done," "Not Done," and "None" (no action), delete tasks, and navigate between different views using React Router DOM.
 
 ## Table Of Contents
 
@@ -12,9 +9,10 @@ The React Habit Tracker App is a web application built with React and Redux, off
 - Usage
 - Contributing
 - License
+
 ## Getting Started
 
-To get started with the React Habit Tracker App, follow these steps:
+To get started with the MEDMATE App, follow these steps:
 
 Clone the repository to your local machine:
 
@@ -23,6 +21,7 @@ bash
 
 git clone https://github.com/vaibhav9682/habit-tracker-redux
 ```
+
 Install the project dependencies:
 
 ```
@@ -31,19 +30,25 @@ bash
 cd react-habit-tracker
 npm install
 ```
+
 Start the development server:
+
 ```
 bash
 
 npm start
 ```
-Open your web browser and visit http://localhost:3000 to access the React Habit Tracker App.
+
+Open your web browser and visit http://localhost:3000 to access the MEDMATE App.
+
 ## Build
+
 ```
 bash
 
 npm run build
 ```
+
 ## Feature
 
 - Add New Tasks: Easily add new habits or tasks to track your daily, weekly, or monthly routines.
@@ -53,17 +58,18 @@ npm run build
 ```
 "Done": Mark a task as completed.
 ```
+
 ```
 "Not Done": Indicate that a task is not yet completed.
 ```
+
 ```
 "None": Keep a task without taking any action.
 ```
+
 - Delete Tasks: Remove specific tasks that you no longer want to track.
 
 - Navigation with React Router DOM: Navigate between different views seamlessly using React Router DOM.
-
-
 
 ## Usage
 
@@ -88,16 +94,13 @@ npm run build
 - Use React Router DOM links or navigation components to move between different views within the app.
 
 ## 🚀 About Me
- *My name is Vaibhav Dwivedi.*
 
-*I'm a full stack developer*
+_My name is Vaibhav Dwivedi._
 
-
+_I'm a full stack developer_
 
 ### for any support :
 
 github profile: https://github.com/vaibhav9682
 
 github repo: git clone https://github.com/vaibhav9682/habit-tracker-redux
-
-
