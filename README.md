@@ -2,6 +2,13 @@
 
 The MEDMATE App is a web application built with React and Redux, offering an intuitive way to track your habits and monitor your progress. With this app, you can effortlessly add new tasks, toggle their status between "Done," "Not Done," and "None" (no action), delete tasks, and navigate between different views using React Router DOM.
 
+## Screenshots
+
+![Screenshot 1](https://drive.google.com/file/d/192FqaZeHAdilMfTj1NaSmZg3JN7m-iUH/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1BuF2JaJnIIuuS4AaF4vTFfsxyFY6t5Vn/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/12uU5uMvSMxPy_T_pwaAWRHqy6gv7sseU/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1uD8d3jrlWKkuUHMg_wL_5VU5NBhjxGZw/view?usp=sharing)
+
 ## Table Of Contents
 
 - Getting Started
@@ -27,7 +34,7 @@ Install the project dependencies:
 ```
 bash
 
-cd react-habit-tracker
+cd MEDMATE
 npm install
 ```
 
@@ -38,8 +45,6 @@ bash
 
 npm start
 ```
-
-Open your web browser and visit http://localhost:3000 to access the MEDMATE App.
 
 ## Build
 
