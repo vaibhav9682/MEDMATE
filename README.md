@@ -4,7 +4,7 @@ The MEDMATE App is a web application built with React and Redux, offering an int
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/192FqaZeHAdilMfTj1NaSmZg3JN7m-iUH/view?usp=sharing)
+![Screenshot (57)](https://github.com/vaibhav9682/MEDMATE/assets/107503645/e6a4fbe4-bc1d-4ba5-a5b0-ae96fda284eb)
 ![Screenshot 1](https://drive.google.com/file/d/1BuF2JaJnIIuuS4AaF4vTFfsxyFY6t5Vn/view?usp=sharing)
 ![Screenshot 1](https://drive.google.com/file/d/12uU5uMvSMxPy_T_pwaAWRHqy6gv7sseU/view?usp=sharing)
 ![Screenshot 1](https://drive.google.com/file/d/1uD8d3jrlWKkuUHMg_wL_5VU5NBhjxGZw/view?usp=sharing)
