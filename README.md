@@ -3,7 +3,7 @@
 The MEDMATE App is a web application built with React and Redux, offering an intuitive way to track your habits and monitor your progress. With this app, you can effortlessly add new tasks, toggle their status between "Done," "Not Done," and "None" (no action), delete tasks, and navigate between different views using React Router DOM.
 
 
-<<<<<<< HEAD
+
 =======
 
 
