@@ -4,10 +4,17 @@ The MEDMATE App is a web application built with React and Redux, offering an int
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/192FqaZeHAdilMfTj1NaSmZg3JN7m-iUH/view?usp=sharing)
-![Screenshot 1](https://drive.google.com/file/d/1BuF2JaJnIIuuS4AaF4vTFfsxyFY6t5Vn/view?usp=sharing)
-![Screenshot 1](https://drive.google.com/file/d/12uU5uMvSMxPy_T_pwaAWRHqy6gv7sseU/view?usp=sharing)
-![Screenshot 1](https://drive.google.com/file/d/1uD8d3jrlWKkuUHMg_wL_5VU5NBhjxGZw/view?usp=sharing)
+The Landing Page
+![Screenshot (57)](https://github.com/vaibhav9682/MEDMATE/assets/107503645/e6a4fbe4-bc1d-4ba5-a5b0-ae96fda284eb)
+
+ADD Task Page
+![Screenshot (58)](https://github.com/vaibhav9682/MEDMATE/assets/107503645/30a8a7ef-a255-40c2-b975-71c1f3d87f62)
+
+Daily task list preview
+![Screenshot (59)](https://github.com/vaibhav9682/MEDMATE/assets/107503645/c24cb1f7-8327-4e74-a026-fd9f66708c8e)
+
+Weekly task list preview
+![Screenshot (60)](https://github.com/vaibhav9682/MEDMATE/assets/107503645/3d6c6a14-86ba-467c-a961-8c6a9aa5be48)
 
 ## Table Of Contents
 
