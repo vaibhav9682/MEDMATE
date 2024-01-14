@@ -19,7 +19,7 @@ Clone the repository to your local machine:
 ```
 bash
 
-git clone https://github.com/vaibhav9682/habit-tracker-redux
+git clone https://github.com/vaibhav9682/MEDMATE
 ```
 
 Install the project dependencies:
@@ -103,4 +103,4 @@ _I'm a full stack developer_
 
 github profile: https://github.com/vaibhav9682
 
-github repo: git clone https://github.com/vaibhav9682/habit-tracker-redux
+github repo: git clone https://github.com/vaibhav9682/MEDMATE
